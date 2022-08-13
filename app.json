@@ -8,17 +8,17 @@
             "BOT_NAME": {
             "description": "බොට්ගෙ නම...",
             "required": true,
-            "value":"[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘] ᎷᎠ"
+            "value":"[🤴🅺🅸🅽🅶 🅱🅾🆃  𝚜𝚞𝚗𝚎𝚝𝚑] ᎷᎠ"
         },
             "SONG_DOWNLOAD": {
             "description": "",
             "required": true,
-            "value":"_*I'm Searching your song*_ ✨➾🔎"
+            "value":"_*[7/26, 7:42 PM] ❑❤️‍🩹මතක නෑ මන් මටම ලදුනේ.💔❑: *🎙️ඔබගේ ~ගීතය~ 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 කරමින් ඇත ᴍᴜꜱɪᴄ ᴘɪꜱꜱᴏ ʙᴏᴛ➠🔎✨*"
         },
             "SOND_UPLOAD": {
             "description": "",
             "required": true,
-            "value":"_*I'm Uploading your song*_ ✨➾🎲"
+            "value":"_**🎙️ඔබගේ ~ගීතය~ 𝘜𝘱𝘭𝘰𝘢𝘥 කරමින් ඇත ᴍᴜꜱɪᴄ ᴘɪꜱꜱᴏ ʙᴏᴛ➠🔥✨*"
         },
             "VIDEO_DOWNLOAD": {
             "description": "",
